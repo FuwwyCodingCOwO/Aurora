@@ -1,0 +1,1 @@
+This is the code in use by FoxBot. I post it here so that I am not the only person looking at the code. If multitple people can look at the code then it should become almost perfect
